@@ -1,2 +1,2 @@
 # CapacityReviewer
-The program that review caparity of any object. Just for tests only
+The program that review capacity of any object. Just for tests only
